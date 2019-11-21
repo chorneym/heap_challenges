@@ -1,0 +1,23 @@
+heap1:
+The username/password combinations are
+	guest:12345
+	admin:67890
+Try to log in as guest and set up the system such that the following happens:
+**Guest logs in and does his nasty setup
+-Guest logs out
+-Admin logs in
+-Admin adds a credit card
+-Admin changes the value of the credit card
+-Admin logs out
+-Guesst logs in
+**Guest has the ability to somehow see the credit card number of admin 
+  without using the admins username/password
+
+heap2:
+Provide input to the program for data elements one and two such that the "hidden" 
+adminFunc is executed and such that the program does not seg fault.
+
+heap3:
+Find a way to call adminFunction
+
+
